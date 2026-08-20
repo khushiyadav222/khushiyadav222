@@ -6,6 +6,9 @@
 
 🎓 BCA Student | Aspiring AI & Machine Learning Engineer
 
+🖥️ See my portfolio at    [Khushi Yadav](https://khushiyadav222.github.io/portfolio/
+)
+
 💻 Passionate about building software and exploring Artificial Intelligence.
 
 ### 🚀 Skills
